@@ -8,7 +8,8 @@ This repository contains the source files for an OSM flyer (in English) that was
 originally created by Frederik Ramm <frederik@remote.org> and
 contributors from the talk-de list in January 2008, and subsequently
 updated, translated, re-updated and re-translated over the
-years. This version was made by Andy Allan <andy@gravitystorm.co.uk>
+years. This version was uploaded to Github by Andy Allan <andy@gravitystorm.co.uk>
+and later modified again by Frederik Ramm for FOSSGIS.
 
 All contents are in the public domain except for those derived from OSM
 which are CC BY-SA, and except for non-OSM logos.
