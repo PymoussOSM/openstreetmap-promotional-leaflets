@@ -4,36 +4,34 @@
 
 ![photo](https://raw.github.com/gravitystorm/openstreetmap-promotional-leaflets/master/leaflets2.jpg)
 
-This repository contains the source files for an OSM flyer (in English) that was
-originally created by Frederik Ramm <frederik@remote.org> and
-contributors from the talk-de list in January 2008, and subsequently
-updated, translated, re-updated and re-translated over the
-years. This version was uploaded to Github by Andy Allan <andy@gravitystorm.co.uk>
-and later modified again by Frederik Ramm for FOSSGIS.
+Ce dépot contient les fichiers source d'un flyer OSM (en français)
+créé à l'origine par Frederik Ramm <frederik@remote.org> et
+des contributeurs de la liste talk-de en janvier 2008, puis
+mis à jour, traduit, re-mis à jour et re-traduit au cours des 
+années. Cette version a été téléchargée sur Github par Andy Allan <andy@gravitystorm.co.uk>
+et plus tard modifié à nouveau par Frederik Ramm pour FOSSGIS.
 
-All contents are in the public domain except for those derived from OSM
-which are CC BY-SA, and except for non-OSM logos.
+Tous les contenus sont dans le domaine public sauf ceux dérivés de OSM
+qui sont CC BY-SA et sauf pour les logos non-OSM.
 
-The flyer is designed for DIN A7 as the final size (105mm high and
-74mm wide), with 8 pages in a zig-zag ("Leporello") fold, and full
-colour printing.
+Le dépliant est conçu pour le format DIN A7 en taille finale (105mm de haut et 74mm de large),
+avec 8 pages dans un pli en zigzag ("Leporello"), et impression en couleur.
 
-The flyer was made with Inkscape; osmflyer1.svg and osmflyer2.svg
-are the front and reverse side.
+Le dépliant a été fait avec Inkscape ; osmflyer1.svg et osmflyer2.svg
+sont les faces avant et arrière.
 
-Some notes in case you want to re-create something yourself:
+Quelques remarques au cas où vous voudriez le recréer vous-même :
 
-* `berlin-background.png` is basically a 4-year-old Osmarender rendering
-of Berlin, using a standard stylesheet but with all captions removed,
-and the resulting PNG file processed with the Gimp roughly like this:
+* `berlin-background.png` est essentiellement un rendu Osmarender de Berlin datant de 4 ans,
+utilisant une feuille de style standard mais avec toutes les légendes supprimées,
+et le fichier PNG résultant traité avec Gimp comme ceci :
 
-  First convert to grayscale, then use `colors->curves` to narrow down
-contrast, then convert back to RGB, then use `colors->colorify` to give
-it a nice hue.
+  Convertissez d'abord en niveaux de gris, puis utilisez `couleurs-> curves`
+pour réduire le contraste, puis revenez en RVB, puis utilisez` colors-> colorify`
+pour lui donner une belle teinte.
 
-* The cover globe image was made with Marble, the technique is roughly
-outlined here: http://wiki.openstreetmap.org/wiki/Marble
+* L'image du globe en couverture a été faite avec Marble, la technique est grossièrement décrite ici : http://wiki.openstreetmap.org/wiki/Marble
 
-* To generate the high-res png maps, use the following commands
+* Pour générer les cartes png haute résolution, utilisez les commandes suivantes
 `~/src/nik2img/nik2img.py -d 2479 1356 -z 14 -c -0.128056 51.508056 --scale-factor 3 ~/src/openstreetmap-carto/osm-carto.xml london.png`
 `~/src/nik2img/nik2img.py -d 1974 2902 -z 15 -c -3.19864 55.95 --scale-factor 3 ~/src/openstreetmap-carto/osm-carto.xml edinburgh.png`
