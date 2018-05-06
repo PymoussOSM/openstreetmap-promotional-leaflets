@@ -14,7 +14,7 @@
    height="442.91336"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    version="1.0"
    sodipodi:docname="osmflyer1fr.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -70,8 +70,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2971745"
-     inkscape:cx="560.83435"
-     inkscape:cy="233.02029"
+     inkscape:cx="383.5259"
+     inkscape:cy="226.85304"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="316mm"
@@ -81,9 +81,9 @@
      inkscape:guide-bbox="true"
      inkscape:guide-points="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="1023"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:object-points="false"
      inkscape:object-paths="false"
      inkscape:grid-bbox="false"
@@ -94,107 +94,133 @@
     <sodipodi:guide
        orientation="vertical"
        position="0"
-       id="guide2160" />
+       id="guide2160"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="vertical"
        position="17.716535"
-       id="guide2162" />
+       id="guide2162"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="vertical"
        position="35.433071"
-       id="guide2164" />
+       id="guide2164"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="vertical"
        position="297.6378"
-       id="guide2166" />
+       id="guide2166"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="vertical"
        position="559.84252"
-       id="guide2168" />
+       id="guide2168"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="vertical"
        position="822.04724"
-       id="guide2170" />
+       id="guide2170"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="vertical"
        position="1101.9685"
-       id="guide2174" />
+       id="guide2174"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="vertical"
        position="1119.685"
-       id="guide2176" />
+       id="guide2176"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="vertical"
        position="1084.252"
-       id="guide2178" />
+       id="guide2178"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="horizontal"
        position="0"
-       id="guide2182" />
+       id="guide2182"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="horizontal"
        position="17.716535"
-       id="guide2184" />
+       id="guide2184"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="horizontal"
        position="35.433071"
-       id="guide2186" />
+       id="guide2186"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="horizontal"
        position="407.48031"
-       id="guide2188" />
+       id="guide2188"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="horizontal"
        position="425.19685"
-       id="guide2190" />
+       id="guide2190"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="horizontal"
        position="442.91339"
-       id="guide2192" />
+       id="guide2192"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="horizontal"
        position="378"
-       id="guide2549" />
+       id="guide2549"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="vertical"
        position="49.606299"
-       id="guide3686" />
+       id="guide3686"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="vertical"
        position="283.46457"
-       id="guide3688" />
+       id="guide3688"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="horizontal"
        position="393.30709"
-       id="guide3690" />
+       id="guide3690"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="horizontal"
        position="49.606299"
-       id="guide3692" />
+       id="guide3692"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="vertical"
        position="574.01575"
-       id="guide3927" />
+       id="guide3927"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="vertical"
        position="545.66929"
-       id="guide3929" />
+       id="guide3929"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="vertical"
        position="808.62337"
-       id="guide3931" />
+       id="guide3931"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="vertical"
        position="311.81102"
-       id="guide3933" />
+       id="guide3933"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="188.66715,584.0149"
-       id="guide3521" />
+       id="guide3521"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="356.23961,527.13034"
-       id="guide3545" />
+       id="guide3545"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -214,22 +240,22 @@
      id="layer1"
      style="display:inline">
     <image
-       sodipodi:absref="C:\Users\Pym\Desktop\background.png"
+       sodipodi:absref="/home/adrien/Code/openstreetmap-promotional-leaflets/background.png"
        xlink:href="background.png"
-       width="1120.6595"
-       height="407.48032"
-       id="image4586"
+       y="17.716511"
        x="0"
-       y="17.716511" />
+       id="image4586"
+       height="407.48032"
+       width="1120.6595" />
     <image
-       sodipodi:absref="C:\Users\Pym\Desktop\.\globe_part_halo.png"
-       xlink:href=".\globe_part_halo.png"
-       style="display:inline"
-       y="23.841961"
-       x="794.09967"
-       id="image2726"
+       sodipodi:absref="/home/adrien/Code/openstreetmap-promotional-leaflets/./globe_part_halo.png"
+       xlink:href="./globe_part_halo.png"
+       width="327.56903"
        height="396.18701"
-       width="327.56903" />
+       id="image2726"
+       x="794.09967"
+       y="23.841961"
+       style="display:inline" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 17.716535,35.433051 L 0,35.433051"
@@ -253,19 +279,21 @@
        inkscape:export-ydpi="400.01047" />
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="911.47784"
        y="15.027878"
        id="text2196"
        inkscape:export-filename="/tmp/1.png"
        inkscape:export-xdpi="400.01047"
-       inkscape:export-ydpi="400.01047"
-       sodipodi:linespacing="125%"><tspan
+       inkscape:export-ydpi="400.01047"><tspan
          sodipodi:role="line"
-         id="tspan2551">flyer title page when folded</tspan></text>
+         id="tspan2551"
+         x="911.47784"
+         y="15.027878"
+         style="font-size:12px;line-height:1.25">flyer title page when folded</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="82.608963"
        y="13.9238"
        id="text2200"
@@ -275,7 +303,8 @@
          sodipodi:role="line"
          id="tspan2202"
          x="82.608963"
-         y="13.9238">flyer back side when folded</tspan></text>
+         y="13.9238"
+         style="font-size:12px;line-height:1.25">flyer back side when folded</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 1084.252,-2.9404297e-05 L 1084.252,17.716511"
@@ -356,7 +385,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4342"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:FrobisherCondensed;-inkscape-font-specification:FrobisherCondensed"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:FrobisherCondensed;-inkscape-font-specification:FrobisherCondensed;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(-0.742,0.343168)"><flowRegion
          id="flowRegion4344"><rect
            id="rect4346"
@@ -364,18 +393,18 @@
            height="111.55554"
            x="574.22223"
            y="324.69113"
-           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:FrobisherCondensed;-inkscape-font-specification:FrobisherCondensed" /></flowRegion><flowPara
-         id="flowPara4348" /></flowRoot>    <text
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:125%;font-family:FrobisherCondensed;-inkscape-font-specification:FrobisherCondensed;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara4348"
+         style="font-size:11px;line-height:1.25"> </flowPara></flowRoot>    <text
        inkscape:export-ydpi="400.01047"
        inkscape:export-xdpi="400.01047"
        inkscape:export-filename="/tmp/1.png"
-       sodipodi:linespacing="125%"
        id="text3397"
        y="64.343704"
        x="48.651115"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Frobisher;-inkscape-font-specification:Frobisher Bold"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Frobisher;-inkscape-font-specification:'Frobisher Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Frobisher;-inkscape-font-specification:Frobisher Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Frobisher;-inkscape-font-specification:'Frobisher Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
          y="64.343704"
          x="48.651115"
          id="tspan3399"
@@ -386,7 +415,7 @@
        inkscape:export-filename="/tmp/1.png"
        transform="matrix(1.0304836,0,0,0.9851245,13.162356,88.522586)"
        id="flowRoot3401"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Condensed';text-align:justify;writing-mode:lr-tb;text-anchor:start;display:inline"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;line-height:0.01%;font-family:Arial;-inkscape-font-specification:'Arial Condensed';text-align:justify;writing-mode:lr-tb;text-anchor:start;display:inline"
        xml:space="preserve"><flowRegion
          id="flowRegion3403"><rect
            y="88.272079"
@@ -394,17 +423,26 @@
            height="216.93814"
            width="227.53142"
            id="rect3405" /></flowRegion><flowPara
-         id="flowPara3843">Vous pouvez trouver la carte et la documentation sur <flowSpan
+         id="flowPara3843"
+         style="font-size:11.25px;line-height:1.25">Vous pouvez trouver la carte et la documentation sur <flowSpan
    style="font-weight:bold"
    id="flowSpan3814">www.openstreetmap.org</flowSpan>. Il est très facile de s'inscrire et commencer à cartographier.</flowPara><flowPara
-         id="flowPara4637" /><flowPara
-         id="flowPara4639">La communauté d’OpenStreetMap est diverse et passionnée. Elle est composée de cartographes enthousiastes, de professionnels du SIG, d'ingénieurs qui font fonctionner les serveurs, d'humanitaires et beaucoup d’autres. Pour en savoir plus sur la communauté, consultez les blogues OpenStreetMap et le site web de la Fondation OSM.</flowPara><flowPara
-         id="flowPara4641" /><flowPara
-         id="flowPara4631">Sur le wiki, vous trouverez de nombreuses pages d'aide pour enrichir la base de données. Tous les événements autour d'OpenStreetMap y sont indiqués !</flowPara><flowPara
-         id="flowPara4633" /><flowPara
-         id="flowPara4635">Le site est exploité par la Fondation OpenStreetMap (OSMF) au nom de la communauté.</flowPara><flowPara
-         id="flowPara3406" /><flowPara
-         id="flowPara3416">OpenStreetMap's servers are run by a not-for-profit organisation in England called the OpenStreetMap Foundation, and there are many national organisations like OpenStreetMap UK CIC, OpenStreetMap US, or FOSSGIS e.V. in Germany. Our data is published under the &quot;Open Database License 1.0&quot; (ODbL). Anyone can share, adapt, and create works from our data freely, provided that they give attribution to &quot;OpenStreet-Map contributors&quot;, and share any adapted databases under the same license. </flowPara></flowRoot>    <rect
+         id="flowPara4637"
+         style="font-size:11.25px;line-height:1.25"> </flowPara><flowPara
+         id="flowPara4639"
+         style="font-size:11.25px;line-height:1.25">La communauté d’OpenStreetMap est diverse et passionnée. Elle est composée de cartographes enthousiastes, de professionnels du SIG, d'ingénieurs qui font fonctionner les serveurs, d'humanitaires et beaucoup d’autres. Pour en savoir plus sur la communauté, consultez les blogues OpenStreetMap et le site web de la Fondation OSM.</flowPara><flowPara
+         id="flowPara4641"
+         style="font-size:11.25px;line-height:1.25"> </flowPara><flowPara
+         id="flowPara4631"
+         style="font-size:11.25px;line-height:1.25">Sur le wiki, vous trouverez de nombreuses pages d'aide pour enrichir la base de données. Tous les événements autour d'OpenStreetMap y sont indiqués !  </flowPara><flowPara
+         id="flowPara4633"
+         style="font-size:11.25px;line-height:1.25" /><flowPara
+         id="flowPara4635"
+         style="font-size:11.25px;line-height:1.25">Le site est exploité par la Fondation OpenStreetMap (OSMF) au nom de la communauté.</flowPara><flowPara
+         id="flowPara3406"
+         style="font-size:11.25px;line-height:1.25" /><flowPara
+         id="flowPara3416"
+         style="font-size:11.25px;line-height:1.25">OpenStreetMap's servers are run by a not-for-profit organisation in England called the OpenStreetMap Foundation, and there are many national organisations like OpenStreetMap UK CIC, OpenStreetMap US, or FOSSGIS e.V. in Germany. Our data is published under the &quot;Open Database License 1.0&quot; (ODbL). Anyone can share, adapt, and create works from our data freely, provided that they give attribution to &quot;OpenStreet-Map contributors&quot;, and share any adapted databases under the same license. </flowPara></flowRoot>    <rect
        inkscape:export-ydpi="400.01047"
        inkscape:export-xdpi="400.01047"
        inkscape:export-filename="/tmp/1.png"
@@ -419,7 +457,7 @@
        inkscape:export-xdpi="400.01047"
        inkscape:export-filename="/tmp/1.png"
        transform="translate(275.97592,234.98154)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Condensed';text-align:justify;writing-mode:lr-tb;text-anchor:start;display:inline"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;line-height:0.01%;font-family:Arial;-inkscape-font-specification:'Arial Condensed';text-align:justify;writing-mode:lr-tb;text-anchor:start;display:inline"
        id="flowRoot10341"
        xml:space="preserve"><flowRegion
          id="flowRegion10343"><rect
@@ -448,39 +486,37 @@
        inkscape:export-ydpi="400.01047"
        inkscape:export-xdpi="400.01047"
        inkscape:export-filename="/tmp/1.png"
-       sodipodi:linespacing="130%"
        id="text3367"
        y="340.83817"
        x="936.98743"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:FrobisherExtrabold"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FrobisherExtrabold;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:1.29999995;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'"
          id="tspan3146"
          y="340.83817"
          x="936.98743"
          sodipodi:role="line">Cartographions</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:1.29999995;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'"
          id="tspan3148"
          y="364.23816"
          x="936.98743"
          sodipodi:role="line">le monde</tspan><tspan
          id="tspan3164"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:1.29999995;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'"
          y="387.63815"
          x="936.98743"
          sodipodi:role="line">rue après rue</tspan></text>
     <text
-       transform="matrix(0,-1,1,0,0,0)"
+       transform="rotate(-90)"
        inkscape:export-ydpi="400.01047"
        inkscape:export-xdpi="400.01047"
        inkscape:export-filename="/tmp/1.png"
-       sodipodi:linespacing="100%"
        id="text3363"
        y="864.11829"
        x="-395.03802"
-       style="font-size:43.23762131px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:FrobisherExtrabold"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FrobisherExtrabold;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="font-size:41.82316971px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FrobisherExtrabold;-inkscape-font-specification:FrobisherExtrabold"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.82316971px;line-height:1;font-family:FrobisherExtrabold;-inkscape-font-specification:FrobisherExtrabold"
          dx="0 0 0 0 2.7728429 0 0 0 0 0 4.1592646"
          y="864.11829"
          x="-395.03802"
@@ -506,39 +542,39 @@
        id="rect2561"
        style="fill:#ffffff;fill-opacity:0.66666667;fill-rule:evenodd;stroke:none;display:inline" />
     <image
-       sodipodi:absref="C:\Users\Pym\Desktop\.\osm.png"
-       xlink:href=".\osm.png"
-       style="display:inline"
-       y="274.3775"
-       x="832.94434"
-       id="image2836"
-       height="71.127243"
-       width="71.127243"
-       transform="matrix(0.96837318,-0.24950629,0.24950629,0.96837318,0,0)"
+       sodipodi:absref="/home/adrien/Code/openstreetmap-promotional-leaflets/./osm.png"
+       xlink:href="./osm.png"
+       inkscape:transform-center-y="0.0650818"
        inkscape:transform-center-x="1.7791254"
-       inkscape:transform-center-y="0.0650818" />
+       transform="matrix(0.96837318,-0.24950629,0.24950629,0.96837318,0,0)"
+       width="71.127243"
+       height="71.127243"
+       id="image2836"
+       x="832.94434"
+       y="274.3775"
+       style="display:inline" />
     <image
-       sodipodi:absref="C:\Users\Pym\Desktop\.\rennes.png"
-       xlink:href=".\rennes.png"
-       style="display:inline"
-       width="494.15958"
-       height="270.3027"
-       id="image3171"
+       sodipodi:absref="/home/adrien/Code/openstreetmap-promotional-leaflets/./rennes.png"
+       xlink:href="./rennes.png"
+       y="51.077198"
        x="313.38205"
-       y="51.077198" />
+       id="image3171"
+       height="270.3027"
+       width="494.15958"
+       style="display:inline" />
     <image
-       sodipodi:absref="C:\Users\Pym\Desktop\.\signup-guy.png"
-       xlink:href=".\signup-guy.png"
-       transform="translate(-7.5418126,0)"
-       style="display:inline"
-       width="231.3165"
-       height="89.474754"
-       id="image3143"
+       sodipodi:absref="/home/adrien/Code/openstreetmap-promotional-leaflets/./signup-guy.png"
+       xlink:href="./signup-guy.png"
+       y="80.256142"
        x="58.26429"
-       y="80.256142" />
+       id="image3143"
+       height="89.474754"
+       width="231.3165"
+       style="display:inline"
+       transform="translate(-7.5418126,0)" />
     <flowRoot
        transform="translate(-2.5490746,36.944634)"
-       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.85;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:'Arial Condensed';font-stretch:condensed;font-variant:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;line-height:0.01%;font-family:Arial;-inkscape-font-specification:'Arial Condensed';letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.85;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot3918"
        xml:space="preserve"><flowRegion
          id="flowRegion3920"><rect
@@ -547,18 +583,18 @@
            height="54.198502"
            width="250.0024"
            id="rect3922"
-           style="-inkscape-font-specification:'Arial Condensed';font-family:Arial;font-weight:normal;font-style:normal;font-stretch:condensed;font-variant:normal;" /></flowRegion><flowPara
-         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;line-height:110.00000238%;font-family:Arial;-inkscape-font-specification:'Arial Condensed';"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Arial;-inkscape-font-specification:'Arial Condensed'" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:9px;line-height:110.00000238%;font-family:Arial;-inkscape-font-specification:'Arial Condensed'"
          id="flowPara3930">Ce dépliant est basé sur un travail d'Andy Allan.</flowPara><flowPara
-         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;line-height:110.00000238%;font-family:Arial;-inkscape-font-specification:'Arial Condensed';"
-         id="flowPara3430">Il a été traduit et mis à jour en juin 2018 par OSM Rennes.</flowPara></flowRoot>    <image
-       sodipodi:absref="C:\Users\Pym\Desktop\OSM-FR-logo-web-avec-texte.png"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:9px;line-height:110.00000238%;font-family:Arial;-inkscape-font-specification:'Arial Condensed'"
+         id="flowPara3430">Il a été traduit et mis à jour en juin 2018 par OSM 35.</flowPara></flowRoot>    <image
+       sodipodi:absref="/home/adrien/Code/openstreetmap-promotional-leaflets/OSM-FR-logo-web-avec-texte.png"
        xlink:href="OSM-FR-logo-web-avec-texte.png"
-       transform="matrix(0.25992993,0,0,0.25992993,576.54315,329.07536)"
-       width="562.5"
-       height="125"
+       id="image4628"
        preserveAspectRatio="none"
-       id="image4628" />
+       height="125"
+       width="562.5"
+       transform="matrix(0.25992993,0,0,0.25992993,576.54315,329.07536)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -574,17 +610,18 @@
          style="opacity:0.85;fill:#000000;stroke:none;stroke-width:0.03543307;stroke-miterlimit:4;stroke-dasharray:none" />
       <flowRoot
          transform="translate(0,-2.8210054)"
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Frobisher;-inkscape-font-specification:Frobisher Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0.01%;font-family:Frobisher;-inkscape-font-specification:'Frobisher Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot3567"
          xml:space="preserve"><flowRegion
            id="flowRegion3569"><rect
-             style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#e6e6e6;font-family:Frobisher;-inkscape-font-specification:Frobisher Bold"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;line-height:125%;font-family:Frobisher;-inkscape-font-specification:'Frobisher Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#e6e6e6"
              y="-141.10155"
              x="821.98199"
              height="56.884567"
              width="262.38007"
              id="rect3571" /></flowRegion><flowPara
-           id="flowPara3573">Seite 4</flowPara></flowRoot>    </g>
+           id="flowPara3573"
+           style="font-size:48px;line-height:1.25">Seite 4</flowPara></flowRoot>    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -600,17 +637,18 @@
          style="opacity:0.85;fill:#000000;stroke:none;stroke-width:0.03543307;stroke-miterlimit:4;stroke-dasharray:none" />
       <flowRoot
          transform="translate(0,-2.8210054)"
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Frobisher;-inkscape-font-specification:Frobisher Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0.01%;font-family:Frobisher;-inkscape-font-specification:'Frobisher Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot3559"
          xml:space="preserve"><flowRegion
            id="flowRegion3561"><rect
-             style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#e6e6e6;font-family:Frobisher;-inkscape-font-specification:Frobisher Bold"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;line-height:125%;font-family:Frobisher;-inkscape-font-specification:'Frobisher Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#e6e6e6"
              y="-141.10155"
              x="573.82306"
              height="56.884567"
              width="234.88586"
              id="rect3563" /></flowRegion><flowPara
-           id="flowPara3565">Seite 3</flowPara></flowRoot>    </g>
+           id="flowPara3565"
+           style="font-size:48px;line-height:1.25">Seite 3</flowPara></flowRoot>    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -626,17 +664,18 @@
          style="opacity:0.85;fill:#000000;stroke:none;stroke-width:0.03543307;stroke-miterlimit:4;stroke-dasharray:none" />
       <flowRoot
          transform="translate(0,7.1264881)"
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Frobisher;-inkscape-font-specification:Frobisher Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0.01%;font-family:Frobisher;-inkscape-font-specification:'Frobisher Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot3547"
          xml:space="preserve"><flowRegion
            id="flowRegion3549"><rect
-             style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#e6e6e6;font-family:Frobisher;-inkscape-font-specification:Frobisher Bold"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;line-height:100%;font-family:Frobisher;-inkscape-font-specification:'Frobisher Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#e6e6e6"
              y="-141.33856"
              x="311.91705"
              height="49.53698"
              width="233.70078"
              id="rect3551" /></flowRegion><flowPara
-           id="flowPara3553">Seite 2</flowPara></flowRoot>    </g>
+           id="flowPara3553"
+           style="font-size:48px;line-height:1">Seite 2</flowPara></flowRoot>    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -652,16 +691,17 @@
          style="opacity:0.85;fill:#000000;stroke:none;stroke-width:0.03543307;stroke-miterlimit:4;stroke-dasharray:none" />
       <flowRoot
          transform="translate(0,-2.8210054)"
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Frobisher;-inkscape-font-specification:Frobisher Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0.01%;font-family:Frobisher;-inkscape-font-specification:'Frobisher Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot3575"
          xml:space="preserve"><flowRegion
            id="flowRegion3577"><rect
-             style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#e6e6e6;font-family:Frobisher;-inkscape-font-specification:Frobisher Bold"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;line-height:125%;font-family:Frobisher;-inkscape-font-specification:'Frobisher Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#e6e6e6"
              y="-141.10155"
              x="49.53698"
              height="56.884567"
              width="233.93779"
              id="rect3579" /></flowRegion><flowPara
-           id="flowPara3581">Seite 1</flowPara></flowRoot>    </g>
+           id="flowPara3581"
+           style="font-size:48px;line-height:1.25">Seite 1</flowPara></flowRoot>    </g>
   </g>
 </svg>
